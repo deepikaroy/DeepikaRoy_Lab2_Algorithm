@@ -1,4 +1,4 @@
-package com.learning.utility;
+package com.greatlearning.utility;
 
 public class MergeSort
 { 

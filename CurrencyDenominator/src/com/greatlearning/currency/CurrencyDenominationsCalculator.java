@@ -1,7 +1,8 @@
 package com.greatlearning.currency;
 
 import java.util.Arrays;
-import com.learning.utility.MergeSort;
+
+import com.greatlearning.utility.MergeSort;
 
 public class CurrencyDenominationsCalculator 
 {
